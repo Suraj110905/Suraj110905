@@ -1,48 +1,32 @@
-<h1 align="center">Hello World 👋</h1>
-<h2 align="center">I'm Suraj Kumar</h2>
+[![Social banner of Suraj Kumar](/Banner.gif)](https://your-portfolio-link.com)
 
-<p align="center">
-Data Analyst • Python • SQL • Data Visualization
+<h1 align='center'><code>Hello World!</code></h1>
+
+<p align='center'>
+  I'm <b>Suraj Kumar</b> — a data-driven problem solver who enjoys turning raw data into meaningful insights.
 </p>
 
----
-
-## About  
-I focus on analyzing data, uncovering patterns, and presenting insights through clear and meaningful visualizations.  
-I enjoy working with real-world datasets and transforming raw data into actionable information.
-
----
-
-## Skills  
-- Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- Exploratory Data Analysis (EDA)  
-- SQL / MySQL  
-- Data Cleaning & Preprocessing  
-- Data Visualization (Matplotlib, Seaborn, Excel / Power BI)
-
----
-
-## Current Focus  
-- Performing EDA on real-world datasets  
-- Improving analytical thinking & statistical understanding  
-- Building clear, insight-driven data visualizations  
-
----
-
-## Selected Work  
-- **Diwali Data Analysis** – Exploratory analysis to identify trends and patterns  
-- **Data Visualization Projects** – Charts and insights focused on storytelling  
-
-Explore my pinned repositories below.
-
----
-
-## Contact  
-Email: your_email_here  
-LinkedIn: your_linkedin_here  
-
----
-
-<p align="center">
-Turning data into insights.
+<p align='center'>
+  <strong>
+    📊 Data Analyst | 🤖 AI & ML Enthusiast | 📈 Insight Storyteller
+  </strong>
 </p>
+
+<p align='center'>
+  I work with data to uncover patterns, build analytical solutions, and support better decision-making.
+  Always learning, always improving.
+</p>
+
+<h3 align='center'>Let's Connect</h3>
+
+<p align='center'>
+  📧 <a href="suraj110905@gmail.com">suraj110905@gmail.com</a> •
+  💼 <a href="https://www.linkedin.com/in/Suraj110905/">LinkedIn</a> •
+  🌐 <a href="https://your-portfolio-link.com">Portfolio</a>
+</p>
+
+<p align='center'>
+  <em>"Turning data into decisions."</em>
+</p>
+
+<h2 align='center'><i>Stay curious. Keep analyzing.</i></h2>
