@@ -1,4 +1,4 @@
-# 👋 Hello, I’m Suraj Kumar
+#                👋 Hello, I’m Suraj Kumar
 
 📊 **Aspiring Data Analyst** | Python • Data Analysis • Visualization  
 🎓 B.Tech CSE Student | Turning data into insights
