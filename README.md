@@ -3,7 +3,7 @@
 <h1 align='center'><code>Hello World!</code></h1>
 
 <p align='center'>
-  I'm <b>Suraj Kumar</b> — a data-driven problem solver who enjoys turning raw data into meaningful insights.
+  I'm <b>Suraj Kumar</b> - a data-driven problem solver who enjoys turning raw data into meaningful insights.
 </p>
 
 <p align='center'>
